@@ -1,2 +1,2 @@
-print("Hello, GitHub!");
-print("Welcome to my Python Programs Repository");
+print("Hello, GitHub!"):
+print("Welcome to my Python Programs Repository"):
